@@ -1,16 +1,7 @@
-# music_player
+# flutter_music_player_ui
 
-A new Flutter project.
+A minimal design of nice music player UI. This design includes a home screen for browsing lists and music and a player screen with progress indicator.  
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/48331678/93738936-b6bfcc80-fbef-11ea-8183-46e106d2171d.png" width="70%" height="50%" />     
+</p>
